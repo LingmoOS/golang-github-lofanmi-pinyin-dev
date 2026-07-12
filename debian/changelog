@@ -1,3 +1,9 @@
+golang-github-lofanmi-pinyin-dev (2.1.0.lingmo.1) UNRELEASED; urgency=medium
+
+  * Lingmo namespace migration.
+
+ -- Uniontechos THIRD Maintainers <uniontechos-third@uniontech.com>  Sun, 12 Jul 2026 23:11:19 +0800
+
 golang-github-lofanmi-pinyin-dev (2.0.0.0) UNRELEASED; urgency=medium
 
   * update
